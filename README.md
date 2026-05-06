@@ -22,4 +22,6 @@
 - no terminal: node index.js 
 - no navegador: localhost:3005
 
+# rate-limit: 
 
+- no terminal: npm install express-rate-limit
