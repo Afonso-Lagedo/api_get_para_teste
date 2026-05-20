@@ -7,7 +7,7 @@ const app = express();
 const limiter = rateLimit({
   windowMs: 60 * 1000, // 1 minuto
   max: 15, // 10 requisições
-  message: "Muitas requisições, tente novamente depois. Alan Luis RGM 2519006"
+  message: "Muitas requisições, tente novamente depois. Kleber dos santos 2518499"
 });
 
 app.use(limiter);
